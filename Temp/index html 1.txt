@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oblig 1</title>
+    <link rel="stylesheet" href="../style.css">
+    
+</head>
+
+<body>
+    <header>
+        <div id="banner">
+            <img src="Img/Hampter.jpg" alt="Hampter">
+        </div>
+
+        <div class="header">
+            <!--I made the NAV with help from this video: https://youtu.be/FEmysQARWFU  and tweaked it to my own liking-->
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">CV</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="../About/about.html">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+
+            </nav>
+
+        </div>
+    </header>
+
+    <figure>
+        <img src="../Homepage/Img/mortblur.jpg" alt="something.png">
+            <figcaption>My profile picture</figcaption>
+        <blockquote>quotation</blockquote>
+    </figure>
+    
+
+        <div class="intro">
+            <h1>Introduction</h1>
+                <p>Welcome to my website! My name is Thor, and I am studying UX Design at NTNU. Prior to my enrollment at NTNU I had a year at Sunnhordland Folk High School where I studied Game Art and Design. In my free time I prefer to sit and play games or draw while chatting with friends and listening to music.</p>
+                     <h2>Hobbies</h2>
+                        <ul>
+                            <li>Videogames</li>
+                            <li>Fashion</li>
+                            <li>Music</li>
+                            <li>Art</li>
+                        </ul>
+        </div>
+
+    <hr>
+
+    <footer>
+        <a href="#">Back to top</a>
+    </footer>
+</body>
+</html>
